@@ -1,0 +1,13 @@
+name: Atmosync
+version: "1.0.0"
+main: me.atmosync.Atmosync
+api-version: 1.21
+
+author: Timofey (telegramm @Xhto_ya)
+
+commands:
+  atmosync:
+    description: Main Atmosync command
+    usage: /atmosync <status/update/reload>
+
+description: Real weather plugin

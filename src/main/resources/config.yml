@@ -1,0 +1,14 @@
+location:
+  city: "Moscow"
+  country: "Russia"
+
+  coordinates:
+    enabled: false
+    latitude: 55.75204
+    longitude: 37.61781
+
+world:
+  name: "world"
+
+weather:
+  update-interval: 300
