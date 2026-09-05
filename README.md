@@ -241,7 +241,7 @@ To build Atmosync from source, you need:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Atmosync.git
+git clone https://github.com/timofeyproga/Atmosync.git
 cd Atmosync
 ```
 
